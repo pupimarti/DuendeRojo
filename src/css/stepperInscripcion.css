@@ -1,0 +1,21 @@
+.MuiStepIcon-root.MuiStepIcon-active circle{
+    color: #D22222;
+}
+
+.MuiStepIcon-root.MuiStepIcon-completed path{
+    color: #D22222;
+}
+
+.Stepper{
+    width: 100%;
+}
+
+.MuiStepLabel-label.MuiStepLabel-active{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#contInsc{
+    display:flex;
+    justify-content: center;
+}
